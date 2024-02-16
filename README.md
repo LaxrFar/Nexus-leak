@@ -1,5 +1,12 @@
 # Nexus ( Xvirus ) ( exitscam ) ( skid )
 
+How a nice name would say "You stupid fucking skid.. mhhfm~... you don't know how to code for shit... ah~"
+
+# Some funny stuff 
+https://github.com/LaxrFar/Nexus-leak/blob/main/dexvcanisuckyourdick.mp3
+https://github.com/LaxrFar/Nexus-leak/blob/main/dexvcringe.mp4
+https://github.com/LaxrFar/Nexus-leak/blob/main/dexvskidding.mp4
+
 ## Installation
 
 Install [pip](https://pip.pypa.io/en/stable/) to install modules
